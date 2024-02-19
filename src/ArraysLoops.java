@@ -33,7 +33,7 @@ public class ArraysLoops {
 
         System.out.println(NumberArray.length);
 
-        System.out.println("Gay");
+        System.out.println("Gay  12312");
 
         // System.out.println(NumberArray[4]);
 
